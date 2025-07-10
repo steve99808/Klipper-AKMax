@@ -9,7 +9,7 @@ I personally used PuTTY as an SSH client for installing.
 
 Printed a little case with a 120mm Fan for the board, found on printables https://www.printables.com/model/592451-case-bigtreetech-manta-m5p 
 
-My Klipper config has Mesh Bedleveling and Octoeverywhere installed within and a seperate Startcode. Please take that into account so you could change up your start G-Code in your Slicer. 
+My Klipper config has Mesh Bedleveling in a seperate .cfg File. Please take that into account so you could change up your start G-Code (replaced the original G-Code with "START_PRINT" in Cura) in your Slicer, see print_area_bed_mesh.cfg.
 
 Pictures of the build will follow soon
 
